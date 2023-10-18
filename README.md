@@ -27,8 +27,12 @@ The project utilizes the [Flower Recognition](https://www.kaggle.com/alxmamaev/f
 
 ## Project Structure
 The project is structured as follows:
-- `deep_learning_project.ipynb`: The Jupyter Notebook containing the entire project.
-- `flower.jpg`: An example image from the dataset.
+- [deep_learning_project.ipynb](https://github.com/chandramohan0/Flower-Species-Classification/blob/main/deep_learning_project.ipynb): The Jupyter Notebook containing the entire project.
+
+- `An example image from the dataset`:
+
+  ![flower](https://github.com/chandramohan0/Flower-Species-Classification/assets/77689644/1cf71b6b-fede-432f-8222-7f98a78df793)
+
 - `LICENSE`: The project's open-source license (e.g., MIT License).
 
 
